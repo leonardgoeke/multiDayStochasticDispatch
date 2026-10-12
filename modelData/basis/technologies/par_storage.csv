@@ -1,0 +1,11 @@
+technology_1,parameter_1,value_1,parameter_2,value_2,parameter_3,value_3
+lithiumBattery,costExpStIn,96,costExpStSize,72,,
+lithiumBattery,effStIn,0.985,effStOut,0.975,stDis,0.0000417
+lithiumBattery,lifeStIn,30,,,,
+lithiumBattery,lifeStOut,30,,,,
+lithiumBattery,lifeStSize,30,,,,
+phs,costExpStIn,600,costExpStSize,10,,
+phs,effStIn,0.866025404,effStOut,0.866025404,,
+phs,lifeStIn,50,,,,
+phs,lifeStOut,50,,,,
+phs,lifeStSize,50,,,,

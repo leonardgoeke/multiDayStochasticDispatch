@@ -1,0 +1,10 @@
+region,category,value
+DE,wind,0.120498776
+FR,wind,0.175106653
+CH,wind,0.147802714
+DE,pv,0.267034535
+FR,pv,0.481227551
+CH,pv,0.374131043
+DE,demand,0.775552679
+FR,demand,0.220670117
+CH,demand,0.498111398

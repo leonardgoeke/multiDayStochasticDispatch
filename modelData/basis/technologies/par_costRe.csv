@@ -1,0 +1,7 @@
+technology_1,parameter,value
+pv,costExpConv,350.0
+pv,costOprConv,8.8
+pv,lifeConv,40
+wind,costExpConv,1130.0
+wind,costOprConv,16.3
+wind,lifeConv,30

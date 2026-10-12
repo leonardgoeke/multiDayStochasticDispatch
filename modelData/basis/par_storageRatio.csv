@@ -1,0 +1,6 @@
+technology_1,parameter_1,value_1
+lithiumBattery,stOutToStInCapaFix,1
+lithiumBattery,sizeToStOutCapaLow,0.1
+lithiumBattery,sizeToStOutCapaUp,4
+phs,stOutToStInCapaFix,1
+phs,sizeToStOutCapaUp,40

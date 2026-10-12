@@ -1,0 +1,10 @@
+region_1,technology_1,parameter,value
+CH,wind,capaConvResi,1.378395921699447
+DE,wind,capaConvResi,151.38821019521987
+FR,wind,capaConvResi,127.71797972015435
+CH,ccgt,capaConvResi,8.364404867261195
+DE,ccgt,capaConvResi,46.72674491536548
+FR,ccgt,capaConvResi,46.74045452755272
+CH,pv,capaConvResi,28.209999999999575
+DE,pv,capaConvResi,237.78663141678146
+FR,pv,capaConvResi,207.33441218253068

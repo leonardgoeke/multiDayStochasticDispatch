@@ -1,0 +1,6 @@
+# local tool settings
+.claude/
+.vscode/
+
+# exceeds GitHub's limit of 100 MB per file
+preprocessing/data/gridData/elec_s_1024_ec.nc

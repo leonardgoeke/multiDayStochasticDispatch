@@ -1,0 +1,7 @@
+region_1,technology_1,parameter,value
+CH,phs,capaStInResi,4.721345344872158
+DE,phs,capaStInResi,56.089058149015045
+FR,phs,capaStInResi,51.93234305295636
+CH,lithiumBattery,capaStInResi,7.432270424753021
+DE,lithiumBattery,capaStInResi,4.249264401497648
+FR,lithiumBattery,capaStInResi,18.015274031725976

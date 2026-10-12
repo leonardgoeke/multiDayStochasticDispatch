@@ -1,0 +1,4 @@
+region_1,region_1,exchange_1,parameter,value
+CH,DE,powerGrid,capaExcResi,27.17
+CH,FR,powerGrid,capaExcResi,9.741
+DE,FR,powerGrid,capaExcResi,9.473

@@ -1,0 +1,6 @@
+technology_1,parameter,value,comments
+ccgt,avaConv,0.93,
+ccgt,lifeConv,25,
+ccgt,costExpConv,850.0,
+ccgt,costOprConv,3.38,
+ccgt,costVarGen,43.0,

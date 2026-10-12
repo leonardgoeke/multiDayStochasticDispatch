@@ -1,0 +1,7 @@
+region_1,technology_1,parameter,value
+CH,wind,capaConvUp,36.05333333
+DE,wind,capaConvUp,385.84
+FR,wind,capaConvUp,661.6133333
+CH,pv,capaConvUp,28.21
+DE,pv,capaConvUp,301.0392785
+FR,pv,capaConvUp,372.684457

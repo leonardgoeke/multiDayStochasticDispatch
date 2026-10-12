@@ -1,0 +1,6 @@
+technology_1,mode,carrier_conversion_in,carrier_conversion_out,carrier_stored_in,carrier_stored_out,technology_type,technology_decomm,timestep_cyclic
+pv,,,electricity,,,mature,none,
+wind,,,electricity,,,mature,none,
+ccgt,,,electricity,,,mature,none,
+lithiumBattery,,,,electricity,electricity,mature,none,1
+phs,,,,electricity,electricity,mature,none,1

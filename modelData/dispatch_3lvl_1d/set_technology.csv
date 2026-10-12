@@ -1,0 +1,4 @@
+technology_1,mode,carrier_conversion_in,carrier_conversion_out,carrier_stored_in,carrier_stored_out,technology_type,technology_decomm,timestep_cyclic
+ccgt,,,electricity,,,stock,none,
+lithiumBattery,,,,electricity,electricity,stock,none,1
+phs,,,,electricity,electricity,stock,none,1

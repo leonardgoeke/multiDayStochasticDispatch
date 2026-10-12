@@ -1,0 +1,7 @@
+parameter,value
+effStInterIn,0.998
+effStInterOut,1
+expcStStartLvl,0.01
+secFacWorstCase,0
+repWorstCase,1
+repBestCase,1

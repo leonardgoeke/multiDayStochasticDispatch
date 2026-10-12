@@ -1,0 +1,7 @@
+timestep_4,region_1,technology_1,value,parameter
+h0384,CH,lithiumBattery,-48.89890848937051,costVarStLvl
+h0384,CH,phs,-44.88442793321975,costVarStLvl
+h0384,DE,lithiumBattery,-44.911894802913494,costVarStLvl
+h0384,DE,phs,-42.41822806077213,costVarStLvl
+h0384,FR,lithiumBattery,-46.35322769990215,costVarStLvl
+h0384,FR,phs,-42.82717634329586,costVarStLvl
